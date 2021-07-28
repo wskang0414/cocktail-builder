@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/woosukkang/.conda/envs/Tutorial/bin/python"
+  "python.pythonPath": "/Users/woosukkang/.conda/envs/Tutorial/bin/python",
+  "git.ignoreLimitWarning": true
 }
